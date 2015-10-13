@@ -1,3 +1,3 @@
 PoiAndroid
 ==========
-Points of Interest software integrating with the android app for locational information. Use of multiple technologies such as Web Services, Android Development, kSOAP2, GUI creation (using Swing library), JDBC, SQLite. Both the app and the software are integrated and give statistical information.
+A semester project for the Software Development course implemented in Java to find nearby places of interest. Points of Interests server client application, a Web Services project (server side - GUI) and an Android application. Use of JDBC , SOAP and other web services tools.
